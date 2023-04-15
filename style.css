@@ -1,0 +1,62 @@
+body
+{
+    text-align: center;
+}
+
+.line
+{
+    height: 6px;
+    width: 70px;
+    background-color: #000;
+    margin: 8px auto;
+}
+
+
+
+#apps
+{
+    background-color: darksalmon;
+    padding: 25px;
+}
+
+#chatbot
+{
+    background-color: cornsilk;
+    padding: 25px;
+}
+
+img
+{
+    transition: transform .3s;
+}
+
+img:hover
+{
+    transform: scale(0.75);
+}
+
+h1
+{
+    font-size: 35px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.carousel-inner
+{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarousel
+{
+    background-color: cadetblue;
+    margin-bottom: 30px;
+}
+
+#myCarousel img
+{
+    height: 400px;
+    width: 400px;
+    margin-top: 30px;
+}
